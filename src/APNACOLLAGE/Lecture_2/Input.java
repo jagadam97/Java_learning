@@ -1,4 +1,4 @@
-package APNACOLLAGE;
+package APNACOLLAGE.Lecture_2;
 
 import java.util.*;
 

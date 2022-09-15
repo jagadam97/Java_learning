@@ -1,4 +1,4 @@
-package APNACOLLAGE;
+package APNACOLLAGE.Lecture_1;
 class Stars1{
 
     public static void main(String args[]) {
