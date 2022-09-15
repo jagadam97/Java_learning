@@ -1,4 +1,4 @@
-package APNACOLLAGE;
+package APNACOLLAGE.Lecture_2;
 
 public class Var {
     public static void main(String[] args) {

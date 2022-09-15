@@ -1,4 +1,4 @@
-package APNACOLLAGE;
+package APNACOLLAGE.Lecture_1;
 class FirstClass{
 
     public static void main(String arg[]) {
