@@ -20,6 +20,7 @@ public class Find2darray {
         }
         System.out.print("Please enter the number to be found in the array : ");
         int find = sc.nextInt();
+        sc.close();
         for (int i = 0; i<rows; i++)
         {
             for (int j=0; j<cols; j++)
