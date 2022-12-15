@@ -2,7 +2,7 @@ package HackerRank.data_structure;
 
 import java.util.Scanner;
 
-public class onedArrary {
+public class onedarray {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int n = scan.nextInt();
@@ -11,11 +11,12 @@ public class onedArrary {
         
         // for reading the array
         for(int i = 0; i<n; i++) {
-            arr[i] = scan.nextInt();
+        	arr[i] = scan.nextInt();
         }
+        
         // for output
         for(int i : arr) {
-            System.out.println(i);
+        	System.out.println(i);
         }
         scan.close();
     }
